@@ -1,2 +1,2 @@
-# HJI_Research-and-Development
-R&amp;D 관련 코드
+## 목차
+1. 학사 및 석사과정 연구 관련 코드
